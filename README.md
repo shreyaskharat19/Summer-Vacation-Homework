@@ -2,7 +2,7 @@
 A perfect blend of html and css to make a great website.
 
 # Link to Project-Website
-https://shreyaskharat19.github.io/Project-Website/
+https://shreyaskharat19.github.io/Summer-Vacation-Homework/
 
 # Important Note!!
 
